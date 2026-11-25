@@ -15,4 +15,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/siddhanta-max/LeetcodeQ/tree/master/0053-maximum-subarray) |
+## String
+|  |
+| ------- |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/siddhanta-max/LeetcodeQ/tree/master/2259-remove-digit-from-number-to-maximize-result) |
+## Greedy
+|  |
+| ------- |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/siddhanta-max/LeetcodeQ/tree/master/2259-remove-digit-from-number-to-maximize-result) |
+## Enumeration
+|  |
+| ------- |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/siddhanta-max/LeetcodeQ/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 <!---LeetCode Topics End-->
