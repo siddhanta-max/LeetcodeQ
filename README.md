@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/siddhanta-max/LeetcodeQ/tree/master/0242-valid-anagram) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/siddhanta-max/LeetcodeQ/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 ## Greedy
 |  |
@@ -32,4 +33,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/siddhanta-max/LeetcodeQ/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/siddhanta-max/LeetcodeQ/tree/master/0242-valid-anagram) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/siddhanta-max/LeetcodeQ/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
